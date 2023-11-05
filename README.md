@@ -2,7 +2,4 @@
 additional changes
 CopyA
 
-CopyB
-
-
 
